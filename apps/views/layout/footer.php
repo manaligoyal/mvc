@@ -1,6 +1,6 @@
 <section class="footer-2 section-padding gray-bg pb-5">
 	<div class="container">
-		<div class="row justify-content-center">
+		<!-- <div class="row justify-content-center">
 	      <div class="col-lg-6">
 	        <div class="subscribe-footer text-center">
 	          <div class="form-group mb-0">
@@ -15,9 +15,9 @@
 					    </div>
 				  	</div>
 	            </div>
-	        </div>
+	        </div> 
 	      </div>
-	    </div>
+	    </div> -->
 
 		<div class="footer-btm mt-5 pt-4 border-top">
 			<div class="row">
@@ -35,7 +35,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6">
 					<div class="copyright text-center ">
-						@ copyright all reserved to <a href="https://themefisher.com/">themefisher.com</a>-2019
+						@ copyright all reserved to <a href="https://www.doyogawithme.com/">doyogawithme.com</a>-<?= date('Y'); ?>
 					</div>
 				</div>
 			</div>
